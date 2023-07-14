@@ -1,0 +1,1 @@
+1. state : lấy giá trị của biến 
